@@ -1,5 +1,4 @@
 # hello-world
-Starter repository.
 
 Hello everyone!
 
